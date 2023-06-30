@@ -10,7 +10,11 @@ Features :
 (2)It can work on any device with any dimensions
 (3)This has all the asked functionality added to the products and cart like adding and deleting items
 
-Requirements/Dependancies :
-
+Requirements/Dependencies :
 (1) React DOM 
 (2) Node Package Manager 
+
+*** I am unable to host this site even though it's running completely fine in my local host which can be verified by running by cloning as well; I am attaching the screenshots of my website here; I am really looking forward to this internship 
+https://drive.google.com/file/d/1i5jhfGrMZScwC62WVrqbKEpxZRt7CMZE/view?usp=sharing
+***
+
