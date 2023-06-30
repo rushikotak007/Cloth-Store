@@ -1,6 +1,6 @@
 CLOTH STORE
 
-This website is created and hosted specially for SNSILOS during onboarding process. I have tried to keep it minimal and at he same time trying to showcase my development skills 
+This website is created specially for SNSILOS during onboarding process. I have tried to keep it minimal and at he same time trying to showcase my development skills 
 
 Tech Stack:
 React JS, Tailwind CSS, API, Advanced JavaScript, 
