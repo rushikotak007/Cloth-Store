@@ -1,6 +1,6 @@
 CLOTH STORE
 
-This website is created specially for SNSILOS during onboarding process. I have tried to keep it minimal and at he same time trying to showcase my development skills 
+This e-commerce website is created using fakestore API to demonstrate my front-end development skills. I have tried to keep it minimal and at he same time trying to showcase my development skills 
 
 Tech Stack:
 React JS, Tailwind CSS, API, Advanced JavaScript, 
