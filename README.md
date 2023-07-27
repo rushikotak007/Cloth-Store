@@ -1,6 +1,6 @@
 CLOTH STORE
 
-This e-commerce website is created using fakestore API to demonstrate my front-end development skills. I have tried to keep it minimal and at he same time trying to showcase my development skills 
+This e-commerce website is created using fakestore API to demonstrate my front-end development skills. I have tried to keep it minimal and modern website look.
 
 Tech Stack:
 React JS, Tailwind CSS, API, Advanced JavaScript, 
